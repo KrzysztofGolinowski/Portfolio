@@ -1,7 +1,7 @@
 import numpy as np
 
 
-class Option:
+class Option(Object):
     """ Class of options
 
     Attributes:
