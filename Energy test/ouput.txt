@@ -1,5 +1,0 @@
-p_value = 0.70%
-Hypothesis that set A and B come from the same distribution can be confirmed on significance level = 5%
-
-Figure_1.png
-Figure_2.png
